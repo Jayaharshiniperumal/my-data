@@ -7,7 +7,8 @@ body {
     animation-duriation:5s;
     @keyframes example{
         from{background-color:#ff9999;}
-        to{background-colour:#98c8fff6;)
+        to{background-colour:#98c8fff6;}
+    }
     
     
     
